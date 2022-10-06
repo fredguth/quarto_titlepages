@@ -5,7 +5,7 @@
 
 [Read the documentation](https://nmfs-opensci.github.io/quarto_titlepages/)
 
-VERSION 3.0 RELEASED
+VERSION 3.3 RELEASED
 
 A Quarto extension for adding a custom title page or book cover to your PDF output using the information in the YAML in your Quarto doc, i.e. from the `xyz.qmd` for an single doc and from `index.qmd` for a [Quarto](https://quarto.org/) book. 
 
